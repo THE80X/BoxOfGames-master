@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Демон",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "2",
+      "MP_START": "2",
+      "IP_START": "2",
+      "PP_START": "2",
+      "AP_START": "2",
+      "FP_START": "1",
+      "LP_START": "0",
+      "CP_START": "1",
+      "BT_START": "2"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "10",
+      "MP_MAX": "15",
+      "IP_MAX": "15",
+      "PP_MAX": "15",
+      "AP_MAX": "10",
+      "FP_MAX": "15",
+      "LP_MAX": "5",
+      "CP_MAX": "15",
+      "BT_MAX": "20"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "20",
+    "WATER_RES_START": "5",
+    "WIND_RES_START": "5",
+    "DIRT_RES_START": "5",
+    "LIGHTNING_RES_START": "5",
+    "HOLY_RES_START": "-50",
+    "CURSE_RES_START": "60",
+    "CRUSH_RES_START": "0",
+    "CUT_RES_START": "0",
+    "STAB_RES_START": "0"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-1",
+    "WATER_ACCESS_START": "-3",
+    "WIND_ACCESS_START": "-2",
+    "DIRT_ACCESS_START": "-2",
+    "LIGHTNING_ACCESS_START": "-1",
+    "HOLY_ACCESS_START": "-11",
+    "CURSE_ACCESS_START": "-1",
+    "BLEED_ACCESS_START": "-2",
+    "NATURE_ACCESS_START": "-2",
+    "MENTAL_ACCESS_START": "-1",
+    "TWOHANDED_ACCESS_START": "-2",
+    "POLEARM_ACCESS_START": "-1",
+    "ONEHANDED_ACCESS_START": "-1",
+    "STABBING_ACCESS_START": "-1",
+    "CUTTING_ACCESS_START": "-1",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-1",
+    "SHIELDS_ACCESS_START": "-6"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

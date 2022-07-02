@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Тень",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "1",
+      "MP_START": "1",
+      "IP_START": "1",
+      "PP_START": "2",
+      "AP_START": "1",
+      "FP_START": "1",
+      "LP_START": "1",
+      "CP_START": "2",
+      "BT_START": "4"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "15",
+      "MP_MAX": "5",
+      "IP_MAX": "10",
+      "PP_MAX": "15",
+      "AP_MAX": "15",
+      "FP_MAX": "5",
+      "LP_MAX": "10",
+      "CP_MAX": "15",
+      "BT_MAX": "30"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "-10",
+    "WATER_RES_START": "10",
+    "WIND_RES_START": "15",
+    "DIRT_RES_START": "5",
+    "LIGHTNING_RES_START": "-5",
+    "HOLY_RES_START": "-30",
+    "CURSE_RES_START": "20",
+    "CRUSH_RES_START": "15",
+    "CUT_RES_START": "15",
+    "STAB_RES_START": "15"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-3",
+    "WATER_ACCESS_START": "-1",
+    "WIND_ACCESS_START": "-1",
+    "DIRT_ACCESS_START": "-1",
+    "LIGHTNING_ACCESS_START": "-3",
+    "HOLY_ACCESS_START": "-11",
+    "CURSE_ACCESS_START": "-2",
+    "BLEED_ACCESS_START": "-2",
+    "NATURE_ACCESS_START": "-1",
+    "MENTAL_ACCESS_START": "-1",
+    "TWOHANDED_ACCESS_START": "-1",
+    "POLEARM_ACCESS_START": "-1",
+    "ONEHANDED_ACCESS_START": "-2",
+    "STABBING_ACCESS_START": "-2",
+    "CUTTING_ACCESS_START": "-2",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-2",
+    "SHIELDS_ACCESS_START": "-3"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

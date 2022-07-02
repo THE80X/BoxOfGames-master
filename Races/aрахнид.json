@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Арахнид",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "1",
+      "MP_START": "1",
+      "IP_START": "3",
+      "PP_START": "1",
+      "AP_START": "2",
+      "FP_START": "0",
+      "LP_START": "0",
+      "CP_START": "2",
+      "BT_START": "4"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "5",
+      "MP_MAX": "10",
+      "IP_MAX": "20",
+      "PP_MAX": "15",
+      "AP_MAX": "15",
+      "FP_MAX": "0",
+      "LP_MAX": "0",
+      "CP_MAX": "20",
+      "BT_MAX": "35"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "-10",
+    "WATER_RES_START": "15",
+    "WIND_RES_START": "15",
+    "DIRT_RES_START": "15",
+    "LIGHTNING_RES_START": "5",
+    "HOLY_RES_START": "-20",
+    "CURSE_RES_START": "30",
+    "CRUSH_RES_START": "-20",
+    "CUT_RES_START": "10",
+    "STAB_RES_START": "10"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-3",
+    "WATER_ACCESS_START": "-2",
+    "WIND_ACCESS_START": "-2",
+    "DIRT_ACCESS_START": "-2",
+    "LIGHTNING_ACCESS_START": "-3",
+    "HOLY_ACCESS_START": "-11",
+    "CURSE_ACCESS_START": "-1",
+    "BLEED_ACCESS_START": "-2",
+    "NATURE_ACCESS_START": "-3",
+    "MENTAL_ACCESS_START": "-1",
+    "TWOHANDED_ACCESS_START": "-2",
+    "POLEARM_ACCESS_START": "-2",
+    "ONEHANDED_ACCESS_START": "-1",
+    "STABBING_ACCESS_START": "-1",
+    "CUTTING_ACCESS_START": "-1",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-1",
+    "SHIELDS_ACCESS_START": "-1"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "8",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

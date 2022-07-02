@@ -1,0 +1,5 @@
+main_token = '4c0481eb8103b1aec616c05339c00c33819cf1cc90a15f457d926f4818ebb9041c94b318b806a17d7f0f5'
+group_token = '203422180'
+name_by_id = ['', 'Flood', 'RP', 'Объявления', 'Chat 18+']
+vk_admin_permission = ['593644570', '404872983', '678212445', '655707464 ', '457933399']
+# main_token = '1d149d78494765e357415164273e174644bab6ad84aca886cc157f615f43d59a79ab76c0d3893e41562b2'

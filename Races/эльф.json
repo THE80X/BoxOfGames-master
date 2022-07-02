@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Эльф",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "3",
+      "MP_START": "3",
+      "IP_START": "1",
+      "PP_START": "0",
+      "AP_START": "3",
+      "FP_START": "1",
+      "LP_START": "1",
+      "CP_START": "1",
+      "BT_START": "1"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "20",
+      "MP_MAX": "20",
+      "IP_MAX": "15",
+      "PP_MAX": "15",
+      "AP_MAX": "20",
+      "FP_MAX": "5",
+      "LP_MAX": "10",
+      "CP_MAX": "10",
+      "BT_MAX": "5"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "5",
+    "WATER_RES_START": "15",
+    "WIND_RES_START": "15",
+    "DIRT_RES_START": "15",
+    "LIGHTNING_RES_START": "5",
+    "HOLY_RES_START": "20",
+    "CURSE_RES_START": "-25",
+    "CRUSH_RES_START": "0",
+    "CUT_RES_START": "0",
+    "STAB_RES_START": "0"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-2",
+    "WATER_ACCESS_START": "-1",
+    "WIND_ACCESS_START": "-1",
+    "DIRT_ACCESS_START": "-1",
+    "LIGHTNING_ACCESS_START": "-2",
+    "HOLY_ACCESS_START": "-1",
+    "CURSE_ACCESS_START": "-11",
+    "BLEED_ACCESS_START": "-3",
+    "NATURE_ACCESS_START": "-1",
+    "MENTAL_ACCESS_START": "-3",
+    "TWOHANDED_ACCESS_START": "-2",
+    "POLEARM_ACCESS_START": "-1",
+    "ONEHANDED_ACCESS_START": "-2",
+    "STABBING_ACCESS_START": "-2",
+    "CUTTING_ACCESS_START": "-3",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-1",
+    "SHIELDS_ACCESS_START": "-2"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

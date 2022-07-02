@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Атлант",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "2",
+      "MP_START": "1",
+      "IP_START": "1",
+      "PP_START": "4",
+      "AP_START": "0",
+      "FP_START": "1",
+      "LP_START": "2",
+      "CP_START": "2",
+      "BT_START": "1"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "20",
+      "MP_MAX": "5",
+      "IP_MAX": "10",
+      "PP_MAX": "35",
+      "AP_MAX": "5",
+      "FP_MAX": "5",
+      "LP_MAX": "15",
+      "CP_MAX": "20",
+      "BT_MAX": "5"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "-40",
+    "WATER_RES_START": "50",
+    "WIND_RES_START": "15",
+    "DIRT_RES_START": "5",
+    "LIGHTNING_RES_START": "-20",
+    "HOLY_RES_START": "0",
+    "CURSE_RES_START": "0",
+    "CRUSH_RES_START": "10",
+    "CUT_RES_START": "15",
+    "STAB_RES_START": "15"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-5",
+    "WATER_ACCESS_START": "-1",
+    "WIND_ACCESS_START": "-3",
+    "DIRT_ACCESS_START": "-2",
+    "LIGHTNING_ACCESS_START": "-5",
+    "HOLY_ACCESS_START": "-5",
+    "CURSE_ACCESS_START": "-5",
+    "BLEED_ACCESS_START": "-2",
+    "NATURE_ACCESS_START": "-1",
+    "MENTAL_ACCESS_START": "-1",
+    "TWOHANDED_ACCESS_START": "-1",
+    "POLEARM_ACCESS_START": "-1",
+    "ONEHANDED_ACCESS_START": "-1",
+    "STABBING_ACCESS_START": "0",
+    "CUTTING_ACCESS_START": "-2",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-2",
+    "SHIELDS_ACCESS_START": "-2"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Дракон",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "2",
+      "MP_START": "1",
+      "IP_START": "2",
+      "PP_START": "3",
+      "AP_START": "2",
+      "FP_START": "1",
+      "LP_START": "0",
+      "CP_START": "1",
+      "BT_START": "2"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "10",
+      "MP_MAX": "5",
+      "IP_MAX": "15",
+      "PP_MAX": "25",
+      "AP_MAX": "20",
+      "FP_MAX": "10",
+      "LP_MAX": "5",
+      "CP_MAX": "10",
+      "BT_MAX": "20"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "15",
+    "WATER_RES_START": "15",
+    "WIND_RES_START": "15",
+    "DIRT_RES_START": "15",
+    "LIGHTNING_RES_START": "15",
+    "HOLY_RES_START": "0",
+    "CURSE_RES_START": "0",
+    "CRUSH_RES_START": "20",
+    "CUT_RES_START": "-60",
+    "STAB_RES_START": "15"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-1",
+    "WATER_ACCESS_START": "-1",
+    "WIND_ACCESS_START": "-1",
+    "DIRT_ACCESS_START": "-1",
+    "LIGHTNING_ACCESS_START": "-1",
+    "HOLY_ACCESS_START": "-5",
+    "CURSE_ACCESS_START": "-5",
+    "BLEED_ACCESS_START": "-3",
+    "NATURE_ACCESS_START": "-3",
+    "MENTAL_ACCESS_START": "-3",
+    "TWOHANDED_ACCESS_START": "-2",
+    "POLEARM_ACCESS_START": "-2",
+    "ONEHANDED_ACCESS_START": "-2",
+    "STABBING_ACCESS_START": "-2",
+    "CUTTING_ACCESS_START": "-2",
+    "CRUSHING_ACCESS_START": "-2",
+    "SMALL_ARMS_ACCESS_START": "-2",
+    "SHIELDS_ACCESS_START": "-2"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "2",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}

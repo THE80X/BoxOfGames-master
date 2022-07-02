@@ -1,0 +1,66 @@
+{
+  "RACE_NAME": "Феникс",
+  "POINTS": {
+    "START_POINTS": {
+      "SP_START": "1",
+      "MP_START": "2",
+      "IP_START": "2",
+      "PP_START": "1",
+      "AP_START": "1",
+      "FP_START": "0",
+      "LP_START": "1",
+      "CP_START": "1",
+      "BT_START": "5"
+    },
+    "MAX_POINTS": {
+      "SP_MAX": "10",
+      "MP_MAX": "15",
+      "IP_MAX": "15",
+      "PP_MAX": "10",
+      "AP_MAX": "10",
+      "FP_MAX": "10",
+      "LP_MAX": "5",
+      "CP_MAX": "10",
+      "BT_MAX": "35"
+    }
+  },
+  "RESISTANCES": {
+    "FIRE_RES_START": "70",
+    "WATER_RES_START": "-25",
+    "WIND_RES_START": "5",
+    "DIRT_RES_START": "5",
+    "LIGHTNING_RES_START": "5",
+    "HOLY_RES_START": "15",
+    "CURSE_RES_START": "-25",
+    "CRUSH_RES_START": "0",
+    "CUT_RES_START": "0",
+    "STAB_RES_START": "0"
+  },
+  "PERMISSIONS": {
+    "FIRE_ACCESS_START": "-1",
+    "WATER_ACCESS_START": "-2",
+    "WIND_ACCESS_START": "-1",
+    "DIRT_ACCESS_START": "-2",
+    "LIGHTNING_ACCESS_START": "-1",
+    "HOLY_ACCESS_START": "-1",
+    "CURSE_ACCESS_START": "-11",
+    "BLEED_ACCESS_START": "-3",
+    "NATURE_ACCESS_START": "-1",
+    "MENTAL_ACCESS_START": "-3",
+    "TWOHANDED_ACCESS_START": "-1",
+    "POLEARM_ACCESS_START": "-1",
+    "ONEHANDED_ACCESS_START": "-3",
+    "STABBING_ACCESS_START": "-2",
+    "CUTTING_ACCESS_START": "-2",
+    "CRUSHING_ACCESS_START": "-1",
+    "SMALL_ARMS_ACCESS_START": "-1",
+    "SHIELDS_ACCESS_START": "-3"
+  },
+  "EQUIPMENT": {
+    "HELMET_STATUS_START": "1",
+    "CHEST_STATUS_START": "1",
+    "SHOES_STATUS_START": "2",
+    "GLOVES_STATUS_START": "2",
+    "ITEM_SLOT_START": "2"
+  }
+}
